@@ -917,9 +917,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HighScoreText: {fileID: 779672901}
   EnergyText: {fileID: 127893846}
-  playButton: {fileID: 0}
+  playButton: {fileID: 1033632513}
   androidNotificationHandler: {fileID: 1674985007}
-  maxEnergy: 5
+  maxEnergy: 9
   energyRechargeDuration: 1
 --- !u!4 &1674985006
 Transform:
@@ -946,6 +946,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1674985004}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a07df9a2aea6c948b086dd9d71f1abc, type: 3}
+  m_Script: {fileID: 11500000, guid: c385903b5dce3d54cb9e4d909aaf1e00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
